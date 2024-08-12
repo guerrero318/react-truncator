@@ -1,6 +1,6 @@
 {
   "name": "react-text-truncator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The text surrounded by the component will be truncated. Anything surrounded by the component could be evaluated as text.",
   "main": "lib/Truncator.js",
   "publishConfig": {

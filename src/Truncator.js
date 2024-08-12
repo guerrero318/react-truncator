@@ -16,8 +16,8 @@ class Truncator extends Component {
 
   static defaultProps = {
     lines: 3,
-    more: 'Show more',
-    less: 'Show less',
+    more: 'See more',
+    less: 'See less',
     anchorClass: 'show-more-less-clickable',
     onClick: undefined,
     expanded: false,
