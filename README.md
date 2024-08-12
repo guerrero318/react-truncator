@@ -26,7 +26,7 @@ class Foo extends Component {
         more="See more"
         less="See less"
         className="content-css"
-        anchorClass="show-more-less-clickable"
+        anchorClass="see-more-less-clickable"
         onClick={this.executeOnClick}
         expanded={false}
         width={280}
