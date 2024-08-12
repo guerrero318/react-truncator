@@ -1,4 +1,4 @@
-# React Text Truncator 0.0.4
+# React Text Truncator 0.0.5
 
 ## Install
 
