@@ -1,9 +1,9 @@
-# React Truncator 0.1.0
+# React Text Truncator 0.0.4
 
 ## Install
 
 ```
-$ npm install react-show-more-text
+$ npm install react-text-truncator
 ```
 
 ## Usage
@@ -23,8 +23,8 @@ class Foo extends Component {
       <Truncator
         /* Default options */
         lines={3}
-        more="Show more"
-        less="Show less"
+        more="See more"
+        less="See less"
         className="content-css"
         anchorClass="show-more-less-clickable"
         onClick={this.executeOnClick}
