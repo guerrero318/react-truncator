@@ -18,7 +18,7 @@ class Truncator extends Component {
     lines: 3,
     more: 'See more',
     less: 'See less',
-    anchorClass: 'show-more-less-clickable',
+    anchorClass: 'see-more-less-clickable',
     onClick: undefined,
     expanded: false,
     width: 0,
